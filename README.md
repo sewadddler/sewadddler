@@ -1,6 +1,8 @@
 # hey welcome to my crib 🍼
 
-I'm @sewaddler 🐛 
+Don't know what I'm doing yet, but I'll get there
+
+Sections to include? About me, Interests, Resources/Portfolios
 
 
 <!---
