@@ -1,7 +1,4 @@
-<div align="center">
-# 👶 hey welcome to my crib 🍼<br>
-  
-  
+<div align="center"> 
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/normal/sewaddle.gif" width="34" height="36" />
   <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" width="34" height="36" />
   
@@ -13,9 +10,10 @@
   
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/normal/sewaddle.gif" width="34" height="36" />
   <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" width="34" height="36" />
+
+Hey there!
   
-  
-Don't know what I'm doing yet, but I'll get there
+Thanks for coming to check out my page.  I haven't made any super cool programs yet, but I'll let you know when I do!
 
 Sections to include? About me, Interests, Resources/Portfolios
 
