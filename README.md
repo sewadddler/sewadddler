@@ -13,7 +13,9 @@
 
 Hey there!
   
-Thanks for coming to check out my page.  I haven't made any super cool programs yet, but I'll let you know when I do!
+Thanks for coming to check out my page.
+I haven't made any super cool programs yet, 
+but I'll let you know when I do!
 
 <img src="sleepwaddle.png" data-canonical-src="sleepwaddle.png" width="400" height="300" />
 </div>
