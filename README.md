@@ -15,7 +15,7 @@ Hey there!
   
 Thanks for coming to check out my page.<br>
 I haven't made any super cool programs yet,<br> 
-but I'll let you know when I do!
-
+but I'll let you know when I do!<br>
+-----------------------------------------
 <img src="sleepwaddle.png" data-canonical-src="sleepwaddle.png" width="400" height="300" />
 </div>
