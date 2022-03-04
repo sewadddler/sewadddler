@@ -12,7 +12,6 @@
   <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" width="34" height="36" />
 <br>
 Hey there!
-  
 Thanks for coming to check out my page.<br>
 I haven't made any super cool programs yet,<br> 
 but I'll let you know when I do!<br>
