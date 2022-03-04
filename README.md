@@ -9,7 +9,7 @@
   <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" width="34" height="36" />
   
   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/normal/sewaddle.gif" width="34" height="36" />
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" width="34" height="36" />
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" data-canonical-src="https://img.pokemondb.net/sprites/black-white/anim/shiny/sewaddle.gif" width="34" height="36" /><br>
 -----------------------------------------<br><br>
 Hey there!<br>
 Thanks for coming to check out my page.<br>
